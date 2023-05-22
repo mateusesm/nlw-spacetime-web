@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### NLW Spacetime - Web
 
-## Getting Started
+Aplicação Web desenvolvida durante NLW (Next Level Week) da Rocketseat que tem como objetivo ser a interface web de uma aplicação para guardar memórias (Texto, imagens, etc.) A interface consome API Rest também criada durante a semana.
 
-First, run the development server:
+O sistema foi desenvolvido com o framework Next.js utilizando React com Typescript e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o coceito de manipulação de datas e autenticação do front-end com o back-end utilizando login com GitHub e token guardado nos cookies.
+
+### Algumas imagens da interface web
+
+
+
+### Para executar a API basta seguir as instruções abaixo
+
+Antes de tudo, verifique se há alguma versão do Node instalada rodando o comando:
+
+```bash
+node --version
+```
+O comando deverá retornar a versão do Node instalada. Se não houver, baixe-a
+
+Caso o Node esteja instalado, entre na pasta do projeto e rode o seguinte comando para instalar todas as dependências:
+
+```bash
+npm install
+```
+Em seguida, rode o seguinte comando para rodar o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Uma mensagem será exibida no terminal informando a URL do servidor e a porta na qual está rodando.
