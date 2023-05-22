@@ -2,7 +2,7 @@
 
 Aplicação Web desenvolvida durante NLW (Next Level Week) da Rocketseat que tem como objetivo ser a interface web de uma aplicação para guardar memórias (Texto, imagens, etc.) A interface consome API Rest também criada durante a semana.
 
-O sistema foi desenvolvido com o framework Next.js utilizando React com Typescript e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o coceito de manipulação de datas e autenticação do front-end com o back-end utilizando login com GitHub e token guardado nos cookies.
+O sistema foi desenvolvido com o framework Next.js utilizando React com Typescript e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o conceito de manipulação de datas e autenticação do front-end com o back-end utilizando login com GitHub e token guardado nos cookies.
 
 ### Algumas imagens da interface web abaixo:
 
