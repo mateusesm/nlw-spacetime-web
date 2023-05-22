@@ -4,11 +4,16 @@ Aplicação Web desenvolvida durante NLW (Next Level Week) da Rocketseat que tem
 
 O sistema foi desenvolvido com o framework Next.js utilizando React com Typescript e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o coceito de manipulação de datas e autenticação do front-end com o back-end utilizando login com GitHub e token guardado nos cookies.
 
-### Algumas imagens da interface web
+### Algumas imagens da interface web abaixo:
 
+#### Interface inicial
+![Interface inicial](./project-images/web-1.png)
+#### Criação de memórias
+![Criação de memórias](./project-images/web-2.png)
+#### Página de listagem de memórias
+![Página de listagem de memórias](./project-images/web-3.png)
 
-
-### Para executar a API basta seguir as instruções abaixo
+### Para executar o projeto basta seguir as instruções abaixo
 
 Antes de tudo, verifique se há alguma versão do Node instalada rodando o comando:
 
